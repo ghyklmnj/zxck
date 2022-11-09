@@ -1,2 +1,3 @@
-ssr://MTcyLjEwNS4xOTIuMTM1OjgwOTc6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU5EVTBaVFp1VTNkMWMzQjJPVVJ0VXpJd01YUlJNRVEvP29iZnNwYXJhbT01THVZNkxTNVUxTlM1ck9vNVlhTU9taDBkSEE2THk5MExtTnVMMFZIU2tsNWNtdyZwcm90b3BhcmFtPWRDNXRaUzlUVTFKVFZVSSZyZW1hcmtzPVFGTlRVbE5WUWkzbWw2WG1uS3hCTVRVdDVMdVk2TFM1VTFOUzVvNm82STJRT25RdVkyNHZSVWRLU1hseWJBJmdyb3VwPWRDNXRaUzlUVTFKVFZVSQ
+trojan://a6f61af7-12ac-4d60-986f-de118155a875@172.67.133.156:443?flow=&security=tls&sni=q.qtzrrwwerrtt6yyarteytrdjgw.ml&type=ws&host=q.qtzrrwwerrtt6yyarteytrdjgw.ml&path=/trojan&alpn=#
+vless://a6f61af7-12ac-4d60-986f-de118155a875@172.67.190.141:443?flow=&encryption=none&security=tls&sni=qtzrrwwerrtt6yyarteytrdjgw.gq&type=ws&host=qtzrrwwerrtt6yyarteytrdjgw.gq&path=/&headerType=none&alpn=# 
 
